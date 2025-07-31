@@ -1,6 +1,8 @@
-Hi, I'm Ria!
+<img width="992" height="615" alt="image" src="https://github.com/user-attachments/assets/5a01a8c3-d6f6-4471-a011-ccf5c12de0dd" />Hi, I'm Ria!
 🎓 Computer Science & Statistics student
 🔭 Machine learning enthusiast, full-stack developer, and Break Through Tech AI Fellow @ MIT
+<img src="blob:chrome-untrusted://media-app/ee476aa1-51a0-42ba-906d-53c90997dfcc" alt="Screenshot 2025-07-31 5.23.18 PM.png"/><img width="992" height="615" alt="image" src="https://github.com/user-attachments/assets/6928c944-4adc-403a-a860-aec3c1de30a0" />
+
 
 I enjoy using machine learning, data analysis, and web development to build real-world projects that make an impact. I’m passionate about growing both technical and leadership skills — from tutoring computer science and leading the CS Club at Suffolk to building deep learning models and generative AI apps. Right now, I’m focusing on refining my ML skills, exploring deep learning, and creating projects that bridge data, design, and user experience. I’m excited to keep learning, collaborating, and hopefully join an internship where I can apply these skills to solve meaningful problems.
 
